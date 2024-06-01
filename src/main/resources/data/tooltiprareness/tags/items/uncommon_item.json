@@ -193,6 +193,8 @@
         "minecraft:ochre_froglight",
         "minecraft:verdant_froglight",
         "minecraft:pearlescent_froglight",
-        "minecraft:brush"
+        "minecraft:brush",
+        "minecraft:sculk_shrieker",
+        "minecraft:sculk_catalyst"
     ]
 }

@@ -8,6 +8,15 @@
     "item.tooltiprareness.admin_item.tooltip": "§8Administrator",
     "item.tooltiprareness.none_item.tooltip": "",
 
+    "tag.item.tooltiprareness.common_item": "Common",
+    "tag.item.tooltiprareness.uncommon_item": "Uncommon",
+    "tag.item.tooltiprareness.rare_item": "Rare",
+    "tag.item.tooltiprareness.epic_item": "Epic",
+    "tag.item.tooltiprareness.legendary_item": "Legendary",
+    "tag.item.tooltiprareness.mythic_item": "Mythic",
+    "tag.item.tooltiprareness.admin_item": "Administrator",
+    "tag.item.tooltiprareness.none_item": "",
+
     "text.autoconfig.tooltiprareness.title": "TooltipRareness Config",
     "text.autoconfig.tooltiprareness.category.default": "Default Settings",
     "text.autoconfig.tooltiprareness.category.advanced_settings": "Advanced Settings",

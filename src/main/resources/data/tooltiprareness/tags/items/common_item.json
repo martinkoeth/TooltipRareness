@@ -74,7 +74,7 @@
         "minecraft:acacia_leaves",
         "minecraft:dark_oak_leaves",
         "minecraft:dead_bush",
-        "minecraft:grass",
+        "minecraft:short_grass",
         "minecraft:fern",
         "minecraft:sponge",
         "minecraft:wet_sponge",
@@ -685,7 +685,7 @@
         "minecraft:beetroot_seeds",
         "minecraft:beetroot_soup",
         "minecraft:knowledge_book",
-        "minecraft:scute",
+        "minecraft:turtle_scute",
         "minecraft:turtle_helmet",
         "minecraft:phantom_membrane",
         "minecraft:suspicious_stew",
@@ -708,6 +708,8 @@
         "minecraft:light_blue_banner",
         "minecraft:magenta_banner",
         "minecraft:orange_banner",
-        "minecraft:white_banner"
+        "minecraft:white_banner",
+        "minecraft:armadillo_scute",
+        "minecraft:wolf_armor"
     ]
 }
