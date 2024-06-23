@@ -30,6 +30,9 @@
         "minecraft:music_disc_pigstep",
         "minecraft:music_disc_otherside",
         "minecraft:music_disc_relic",
+        "minecraft:music_disc_creator_music_box",
+        "minecraft:music_disc_creator",
+        "minecraft:music_disc_precipice",
         "minecraft:skeleton_skull",
         "minecraft:wither_skeleton_skull",
         "minecraft:zombie_head",
@@ -70,7 +73,11 @@
         "minecraft:shelter_pottery_sherd",
         "minecraft:skull_pottery_sherd",
         "minecraft:snort_pottery_sherd",
+        "minecraft:flow_pottery_sherd",
+        "minecraft:guster_pottery_sherd",
+        "minecraft:scrape_pottery_sherd",
         "minecraft:decorated_pot",
-        "minecraft:sniffer_egg"
+        "minecraft:sniffer_egg",
+        "minecraft:trial_key"
     ]
 }

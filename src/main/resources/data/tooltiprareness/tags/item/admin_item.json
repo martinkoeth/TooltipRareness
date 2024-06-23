@@ -86,6 +86,9 @@
         "minecraft:iron_golem_spawn_egg",
         "minecraft:sniffer_spawn_egg",
         "minecraft:camel_spawn_egg",
-        "minecraft:armadillo_spawn_egg"
+        "minecraft:armadillo_spawn_egg",
+        "minecraft:breeze_spawn_egg",
+        "minecraft:bogged_spawn_egg",
+        "minecraft:trial_spawner"
     ]
 }

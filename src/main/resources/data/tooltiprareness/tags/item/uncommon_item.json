@@ -195,6 +195,8 @@
         "minecraft:pearlescent_froglight",
         "minecraft:brush",
         "minecraft:sculk_shrieker",
-        "minecraft:sculk_catalyst"
+        "minecraft:sculk_catalyst",
+        "minecraft:ominous_bottle",
+        "minecraft:crafter"
     ]
 }

@@ -2,6 +2,7 @@ package net.tooltiprareness.mixin;
 
 import java.util.List;
 
+import net.minecraft.item.tooltip.TooltipType;
 import org.jetbrains.annotations.Nullable;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.Inject;
@@ -11,7 +12,6 @@ import org.spongepowered.asm.mixin.injection.callback.LocalCapture;
 
 import net.fabricmc.api.Environment;
 import net.fabricmc.api.EnvType;
-import net.minecraft.client.item.TooltipType;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;

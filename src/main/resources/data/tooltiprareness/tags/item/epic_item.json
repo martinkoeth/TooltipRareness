@@ -40,6 +40,10 @@
         "minecraft:shaper_armor_trim_smithing_template",
         "minecraft:silence_armor_trim_smithing_template",
         "minecraft:raiser_armor_trim_smithing_template",
-        "minecraft:host_armor_trim_smithing_template"
+        "minecraft:host_armor_trim_smithing_template",
+        "minecraft:heavy_core",
+        "minecraft:mace",
+        "minecraft:ominous_trial_key",
+        "minecraft:vault"
     ]
 }
