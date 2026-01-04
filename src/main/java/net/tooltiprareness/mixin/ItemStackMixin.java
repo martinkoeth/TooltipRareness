@@ -25,7 +25,7 @@ public class ItemStackMixin {
     private void getTooltipMixin(@Nullable PlayerEntity player, TooltipContext context, CallbackInfoReturnable<List<Text>> info, List<Text> list) {
         if (player != null) {
             ItemStack stack = (ItemStack) (Object) this;
-            if (stack != null)
+            if (stack != null) {
                 if (stack.isIn(TooltipRareness.COMMON_ITEM)) {
                     list.add(1, Text.translatable("item.tooltiprareness.common_item.tooltip"));
                 } else if (stack.isIn(TooltipRareness.UNCOMMON_ITEM)) {
@@ -41,10 +41,13 @@ public class ItemStackMixin {
                 } else if (stack.isIn(TooltipRareness.MYTHIC_ITEM)) {
                     list.add(1, Text.translatable("item.tooltiprareness.mythic_item.tooltip"));
                 } else if (stack.isIn(TooltipRareness.NONE_ITEM)) {
-                    list.add(1, Text.translatable("item.tooltiprareness.none_item.tooltip"));
-                } else {
+                    if(TooltipRareness.CONFIG.displayEmptyLineOnNoneRareness) {
+                        list.add(1, Text.translatable("item.tooltiprareness.none_item.tooltip"));
+                    }
+                } else if (TooltipRareness.CONFIG.defaultCommonRareness) {
                     list.add(1, Text.translatable("item.tooltiprareness.common_item.tooltip"));
                 }
+            }
         }
     }
 

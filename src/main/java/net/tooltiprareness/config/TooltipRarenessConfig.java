@@ -43,6 +43,10 @@ public class TooltipRarenessConfig implements ConfigData {
     // @ConfigEntry.Category("advanced_settings")
     // public int mythic_second_frame_color = 0xFF2ABCC7;
 
+    @Comment("If false, missing items will have no common rareness")
+    public boolean defaultCommonRareness = true;
+    @Comment("If true, none rareness will display an empty line")
+    public boolean displayEmptyLineOnNoneRareness = true;
     @ConfigEntry.Category("advanced_settings")
     public boolean changeBorderColor = false;
     @ConfigEntry.Category("advanced_settings")

@@ -34,5 +34,8 @@
     "text.autoconfig.tooltiprareness.option.borderColorStart": "Border Color Start",
     "text.autoconfig.tooltiprareness.option.borderColorEnd": "Border Color End",
     "text.autoconfig.tooltiprareness.option.changeBackgroundColor": "Change Background Color",
-    "text.autoconfig.tooltiprareness.option.backgroundColor": "Background Color"
+    "text.autoconfig.tooltiprareness.option.backgroundColor": "Background Color",
+
+    "text.autoconfig.tooltiprareness.option.defaultCommonRareness": "Default Common Rareness",
+    "text.autoconfig.tooltiprareness.option.displayEmptyLineOnNoneRareness": "Display Empty Line on None Rareness"
 }
