@@ -1,6 +1,7 @@
 ### Added:
-- 
+- Added defaultCommonRareness option
+- Added displayEmptyLineOnNoneRareness option
 ### Fixed:
 - 
 ### Changed:
-- Updated to mc 1.21.1
+- 
